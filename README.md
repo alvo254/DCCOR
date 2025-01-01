@@ -1,8 +1,6 @@
 # DCCOR
 
-# DCCOR 350-601 Official Study Guide
-
-Welcome to the **DCCOR 350-601 Official Study Guide** repository. This repository is designed to help you prepare for the Cisco CCNP Data Center Core certification exam by providing structured materials, hands-on labs, and detailed topic breakdowns.
+Welcome to the **DCCOR 350-601 Not So Official Study Guide** repository. This repository is designed to help you prepare for the Cisco CCNP Data Center Core certification exam by providing structured materials, hands-on labs, and detailed topic breakdowns.
 
 ## Structure of the Repository
 
@@ -13,7 +11,7 @@ The repository is organized into branches to align with specific topics and chap
 - **Labs Folder:** Includes hands-on lab scenarios and configurations for practical practice.
     
 
-## Suggested Branch Groupings by Topic
+## Groupings by Topic
 
 ### Part I: Networking
 
