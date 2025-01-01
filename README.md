@@ -75,6 +75,26 @@ The repository is organized into branches to align with specific topics and chap
 - **Branch 22:** `exam-updates` (Chapter 22: CCNP and CCIE Data Center Core DCCOR 350-601 Official Cert Guide Exam Updates)
     
 
+## Tools and Lab Environment
+
+To simulate and practice the concepts covered in this guide, the following tools will be used:
+
+### GNS3 Settings
+
+|**Device**|**Routing Protocols Supported**|
+|---|---|
+|**Dynamips**|RIP, OSPF, EIGRP, BGP|
+|**IOL**|RIP, OSPF, EIGRP, BGP|
+|**VyOS**|RIP, OSPF, BGP|
+|**Mikrotik CHR**|RIP, OSPF, BGP|
+|**FRRouting/Quagga**|RIP, OSPF, BGP|
+|**Linux VMs**|RIP, OSPF, BGP|
+
+### Additional Tool
+
+- **Cisco Packet Tracer** will also be used to reinforce concepts and provide additional practice opportunities.
+    
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
@@ -92,13 +112,16 @@ The repository is organized into branches to align with specific topics and chap
 
 ## Contributing
 
-If you would like to contribute to this repository, feel free to fork it, create a new branch, and submit a pull request with your additions or improvements.
+We welcome contributions to improve the configuration or documentation. Follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Resources
 
 - [Official Cisco Study Guide](https://www.cisco.com)
     
 - [Cisco Learning Network](https://learningnetwork.cisco.com)
-    
-
-Happy studying, and good luck on your certification journey!
